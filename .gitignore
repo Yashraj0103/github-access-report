@@ -1,0 +1,39 @@
+# Maven target directory
+target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+
+# VS Code files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+application.properties
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Build output
+out/
+
+# Node modules (if frontend added later)
+node_modules/
